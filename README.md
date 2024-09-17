@@ -1,1 +1,1 @@
-Realizar conecções entre aplicações NodeJS.
+Realizar conexões entre aplicações NodeJS.
